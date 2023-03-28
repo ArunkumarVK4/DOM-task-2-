@@ -1,0 +1,49 @@
+body{
+    background-image: url('https://simplicity.in/vdfdhfv78lmdsvmg5todlsh4jffgskjb2947qnt/images/news/17Tirukkural.jpg');
+    background-repeat:no-repeat;
+    background-position: top;
+    background-size: cover;
+
+
+}
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 200px;
+}
+.blockquote{
+    background: black;
+}
+#output2{
+    text-align: left;
+}
+p{
+    padding: 5px;
+}
+footer{
+    margin: 10px;
+    padding-bottom: 10px;
+}
+input{
+    width: 300px;
+    font-size: 25px;
+    height: 50px;
+    font-weight: 500;
+    outline: none;
+    border-radius: 20px;
+    border-color: white;
+
+}
+.box .btn{
+    margin: 20px;
+
+}
+h1{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bolder;
+    color: white;
+    background: #000;
+    margin-top: 500px;
+}
